@@ -1,3 +1,5 @@
+console.log("Scientific Calculator");
+
 var screen = document.querySelector('#screen');
 var btns = document.querySelectorAll('.btn');
 
